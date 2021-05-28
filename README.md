@@ -1,6 +1,6 @@
 # Debt-Financed Collateral
 ## Overview
-This repository documents the data analysis performed for the paper "Debt-Financed Collateral and Stability Risks in the DeFi Ecosystem" (link to be added when paper is published). All relevant data was stored in a MariaDB database; an export of the table data is available [here](https://drive.google.com/drive/folders/1V5VCF5Td-hoCAsxqUmos8c4ES0d20Keu?usp=sharing).
+This repository documents the data analysis performed for the paper "Debt-Financed Collateral and Stability Risks in the DeFi Ecosystem" (link to be added when paper is published). All relevant data was stored in a MariaDB database; an export of the table data is available [here](https://drive.google.com/drive/folders/1QGkh0MTT-lXiGh7ofzswA7042KVGEqq_).
 
 ## Files/folders
 
